@@ -1,0 +1,280 @@
+INFO:root:Epoch 0/69
+INFO:root:Train Loss: 11125.9059 Acc: 0.0154 Time: 167.3373
+INFO:root:Valid Acc: 0.6542 Threshold: 0.9912 Time: 8.0206
+INFO:root:-----------------------------------------
+INFO:root:Epoch 1/69
+INFO:root:Train Loss: 6993.8825 Acc: 0.1411 Time: 153.2883
+INFO:root:Valid Acc: 0.6347 Threshold: 0.9567 Time: 8.1118
+INFO:root:-----------------------------------------
+INFO:root:Epoch 2/69
+INFO:root:Train Loss: 5224.1912 Acc: 0.2699 Time: 150.7534
+INFO:root:Valid Acc: 0.7105 Threshold: 0.9709 Time: 7.8676
+INFO:root:-----------------------------------------
+INFO:root:Epoch 3/69
+INFO:root:Train Loss: 4354.6156 Acc: 0.3545 Time: 151.5367
+INFO:root:Valid Acc: 0.6615 Threshold: 0.9927 Time: 8.0545
+INFO:root:-----------------------------------------
+INFO:root:Epoch 4/69
+INFO:root:Train Loss: 3850.9158 Acc: 0.4115 Time: 153.4961
+INFO:root:Valid Acc: 0.8890 Threshold: 0.5664 Time: 8.2581
+INFO:root:-----------------------------------------
+INFO:root:Epoch 5/69
+INFO:root:Train Loss: 3492.6057 Acc: 0.4543 Time: 154.4517
+INFO:root:Valid Acc: 0.9202 Threshold: 0.4786 Time: 8.0221
+INFO:root:-----------------------------------------
+INFO:root:Epoch 6/69
+INFO:root:Train Loss: 3229.1498 Acc: 0.4895 Time: 150.6000
+INFO:root:Valid Acc: 0.9433 Threshold: 0.3774 Time: 8.2562
+INFO:root:-----------------------------------------
+INFO:root:Epoch 7/69
+INFO:root:Train Loss: 3026.9248 Acc: 0.5148 Time: 152.2570
+INFO:root:Valid Acc: 0.6125 Threshold: 0.9646 Time: 8.1219
+INFO:root:-----------------------------------------
+INFO:root:Epoch 8/69
+INFO:root:Train Loss: 2873.8997 Acc: 0.5371 Time: 150.2476
+INFO:root:Valid Acc: 0.6522 Threshold: 0.9871 Time: 8.3655
+INFO:root:-----------------------------------------
+INFO:root:Epoch 9/69
+INFO:root:Train Loss: 2744.8465 Acc: 0.5548 Time: 151.5348
+INFO:root:Valid Acc: 0.8493 Threshold: 0.6433 Time: 7.9117
+INFO:root:-----------------------------------------
+INFO:root:Epoch 10/69
+INFO:root:Train Loss: 2639.7470 Acc: 0.5701 Time: 155.8279
+INFO:root:Valid Acc: 0.9050 Threshold: 0.4497 Time: 8.3350
+INFO:root:-----------------------------------------
+INFO:root:Epoch 11/69
+INFO:root:Train Loss: 2551.3386 Acc: 0.5820 Time: 150.9321
+INFO:root:Valid Acc: 0.9532 Threshold: 0.3910 Time: 7.9167
+INFO:root:-----------------------------------------
+INFO:root:Epoch 12/69
+INFO:root:Train Loss: 2472.2955 Acc: 0.5930 Time: 148.2736
+INFO:root:Valid Acc: 0.6638 Threshold: 0.9841 Time: 7.6875
+INFO:root:-----------------------------------------
+INFO:root:Epoch 13/69
+INFO:root:Train Loss: 2403.6829 Acc: 0.6036 Time: 147.8546
+INFO:root:Valid Acc: 0.6792 Threshold: 0.6888 Time: 7.7340
+INFO:root:-----------------------------------------
+INFO:root:Epoch 14/69
+INFO:root:Train Loss: 2344.8077 Acc: 0.6119 Time: 147.4524
+INFO:root:Valid Acc: 0.9595 Threshold: 0.3896 Time: 7.7449
+INFO:root:-----------------------------------------
+INFO:root:Epoch 15/69
+INFO:root:Train Loss: 2290.5822 Acc: 0.6196 Time: 149.7851
+INFO:root:Valid Acc: 0.6588 Threshold: 0.9142 Time: 7.8163
+INFO:root:-----------------------------------------
+INFO:root:Epoch 16/69
+INFO:root:Train Loss: 2244.2481 Acc: 0.6262 Time: 153.2358
+INFO:root:Valid Acc: 0.8855 Threshold: 0.6253 Time: 7.8779
+INFO:root:-----------------------------------------
+INFO:root:Epoch 17/69
+INFO:root:Train Loss: 2198.2927 Acc: 0.6331 Time: 158.2111
+INFO:root:Valid Acc: 0.6580 Threshold: 0.9677 Time: 7.6549
+INFO:root:-----------------------------------------
+INFO:root:Epoch 18/69
+INFO:root:Train Loss: 2159.6346 Acc: 0.6392 Time: 149.8148
+INFO:root:Valid Acc: 0.6913 Threshold: 0.9545 Time: 7.6845
+INFO:root:-----------------------------------------
+INFO:root:Epoch 19/69
+INFO:root:Train Loss: 2123.9994 Acc: 0.6443 Time: 149.7058
+INFO:root:Valid Acc: 0.9655 Threshold: 0.3752 Time: 7.7775
+INFO:root:-----------------------------------------
+INFO:root:Epoch 20/69
+INFO:root:Train Loss: 2085.4076 Acc: 0.6508 Time: 148.2850
+INFO:root:Valid Acc: 0.9537 Threshold: 0.3653 Time: 7.6388
+INFO:root:-----------------------------------------
+INFO:root:Epoch 21/69
+INFO:root:Train Loss: 2055.1213 Acc: 0.6543 Time: 148.6182
+INFO:root:Valid Acc: 0.9647 Threshold: 0.3535 Time: 7.6234
+INFO:root:-----------------------------------------
+INFO:root:Epoch 22/69
+INFO:root:Train Loss: 2025.4663 Acc: 0.6589 Time: 148.5211
+INFO:root:Valid Acc: 0.6608 Threshold: 0.9667 Time: 7.6739
+INFO:root:-----------------------------------------
+INFO:root:Epoch 23/69
+INFO:root:Train Loss: 1997.7284 Acc: 0.6629 Time: 149.2382
+INFO:root:Valid Acc: 0.9437 Threshold: 0.4249 Time: 7.7588
+INFO:root:-----------------------------------------
+INFO:root:Epoch 24/69
+INFO:root:Train Loss: 1974.2193 Acc: 0.6673 Time: 148.6530
+INFO:root:Valid Acc: 0.9523 Threshold: 0.4372 Time: 7.7058
+INFO:root:-----------------------------------------
+INFO:root:Epoch 25/69
+INFO:root:Train Loss: 1954.9506 Acc: 0.6686 Time: 148.6900
+INFO:root:Valid Acc: 0.6532 Threshold: 0.9516 Time: 7.6056
+INFO:root:-----------------------------------------
+INFO:root:Epoch 26/69
+INFO:root:Train Loss: 1932.5856 Acc: 0.6726 Time: 148.1688
+INFO:root:Valid Acc: 0.9573 Threshold: 0.3830 Time: 7.6166
+INFO:root:-----------------------------------------
+INFO:root:Epoch 27/69
+INFO:root:Train Loss: 1909.1665 Acc: 0.6759 Time: 150.3210
+INFO:root:Valid Acc: 0.9603 Threshold: 0.3530 Time: 7.5992
+INFO:root:-----------------------------------------
+INFO:root:Epoch 28/69
+INFO:root:Train Loss: 1890.2402 Acc: 0.6788 Time: 148.7197
+INFO:root:Valid Acc: 0.9673 Threshold: 0.3271 Time: 7.8426
+INFO:root:-----------------------------------------
+INFO:root:Epoch 29/69
+INFO:root:Train Loss: 1871.7145 Acc: 0.6808 Time: 150.2425
+INFO:root:Valid Acc: 0.9468 Threshold: 0.4140 Time: 7.6720
+INFO:root:-----------------------------------------
+INFO:root:Epoch 30/69
+INFO:root:Train Loss: 1854.9454 Acc: 0.6841 Time: 149.5493
+INFO:root:Valid Acc: 0.9332 Threshold: 0.3498 Time: 8.0223
+INFO:root:-----------------------------------------
+INFO:root:Epoch 31/69
+INFO:root:Train Loss: 1838.7892 Acc: 0.6860 Time: 151.3064
+INFO:root:Valid Acc: 0.9700 Threshold: 0.3276 Time: 7.9769
+INFO:root:-----------------------------------------
+INFO:root:Epoch 32/69
+INFO:root:Train Loss: 1821.9818 Acc: 0.6893 Time: 148.4783
+INFO:root:Valid Acc: 0.8625 Threshold: 0.6038 Time: 7.6686
+INFO:root:-----------------------------------------
+INFO:root:Epoch 33/69
+INFO:root:Train Loss: 1808.6066 Acc: 0.6899 Time: 148.9826
+INFO:root:Valid Acc: 0.8940 Threshold: 0.5083 Time: 7.6511
+INFO:root:-----------------------------------------
+INFO:root:Epoch 34/69
+INFO:root:Train Loss: 1794.9563 Acc: 0.6921 Time: 148.4748
+INFO:root:Valid Acc: 0.9277 Threshold: 0.4239 Time: 7.6963
+INFO:root:-----------------------------------------
+INFO:root:Epoch 35/69
+INFO:root:Train Loss: 1783.5578 Acc: 0.6947 Time: 149.0948
+INFO:root:Valid Acc: 0.9215 Threshold: 0.4678 Time: 7.7032
+INFO:root:-----------------------------------------
+INFO:root:Epoch 36/69
+INFO:root:Train Loss: 1162.7158 Acc: 0.8124 Time: 152.9041
+INFO:root:Valid Acc: 0.9842 Threshold: 0.2740 Time: 8.3650
+INFO:root:-----------------------------------------
+INFO:root:Epoch 37/69
+INFO:root:Train Loss: 981.6699 Acc: 0.8506 Time: 149.9711
+INFO:root:Valid Acc: 0.9843 Threshold: 0.2785 Time: 7.7720
+INFO:root:-----------------------------------------
+INFO:root:Epoch 38/69
+INFO:root:Train Loss: 903.3099 Acc: 0.8673 Time: 148.4257
+INFO:root:Valid Acc: 0.9837 Threshold: 0.2748 Time: 7.7512
+INFO:root:-----------------------------------------
+INFO:root:Epoch 39/69
+INFO:root:Train Loss: 855.4897 Acc: 0.8772 Time: 149.7986
+INFO:root:Valid Acc: 0.9833 Threshold: 0.2636 Time: 7.6991
+INFO:root:-----------------------------------------
+INFO:root:Epoch 40/69
+INFO:root:Train Loss: 823.4991 Acc: 0.8842 Time: 148.9512
+INFO:root:Valid Acc: 0.9820 Threshold: 0.2774 Time: 7.8231
+INFO:root:-----------------------------------------
+INFO:root:Epoch 41/69
+INFO:root:Train Loss: 801.0263 Acc: 0.8890 Time: 149.8918
+INFO:root:Valid Acc: 0.9837 Threshold: 0.2705 Time: 7.6951
+INFO:root:-----------------------------------------
+INFO:root:Epoch 42/69
+INFO:root:Train Loss: 783.7737 Acc: 0.8928 Time: 148.5069
+INFO:root:Valid Acc: 0.9825 Threshold: 0.2892 Time: 7.7539
+INFO:root:-----------------------------------------
+INFO:root:Epoch 43/69
+INFO:root:Train Loss: 770.5419 Acc: 0.8953 Time: 148.1063
+INFO:root:Valid Acc: 0.9768 Threshold: 0.2876 Time: 7.7415
+INFO:root:-----------------------------------------
+INFO:root:Epoch 44/69
+INFO:root:Train Loss: 759.8950 Acc: 0.8977 Time: 148.4181
+INFO:root:Valid Acc: 0.9838 Threshold: 0.2898 Time: 7.9134
+INFO:root:-----------------------------------------
+INFO:root:Epoch 45/69
+INFO:root:Train Loss: 752.2897 Acc: 0.8988 Time: 148.5597
+INFO:root:Valid Acc: 0.9793 Threshold: 0.2706 Time: 7.7128
+INFO:root:-----------------------------------------
+INFO:root:Epoch 46/69
+INFO:root:Train Loss: 745.0759 Acc: 0.9006 Time: 148.5855
+INFO:root:Valid Acc: 0.9822 Threshold: 0.2550 Time: 7.6279
+INFO:root:-----------------------------------------
+INFO:root:Epoch 47/69
+INFO:root:Train Loss: 739.3726 Acc: 0.9013 Time: 149.2740
+INFO:root:Valid Acc: 0.9808 Threshold: 0.2748 Time: 7.7368
+INFO:root:-----------------------------------------
+INFO:root:Epoch 48/69
+INFO:root:Train Loss: 734.9601 Acc: 0.9019 Time: 147.9097
+INFO:root:Valid Acc: 0.9830 Threshold: 0.2695 Time: 7.6786
+INFO:root:-----------------------------------------
+INFO:root:Epoch 49/69
+INFO:root:Train Loss: 731.0418 Acc: 0.9026 Time: 148.6931
+INFO:root:Valid Acc: 0.9783 Threshold: 0.2975 Time: 7.6763
+INFO:root:-----------------------------------------
+INFO:root:Epoch 50/69
+INFO:root:Train Loss: 727.2566 Acc: 0.9031 Time: 148.7107
+INFO:root:Valid Acc: 0.9792 Threshold: 0.3000 Time: 7.6711
+INFO:root:-----------------------------------------
+INFO:root:Epoch 51/69
+INFO:root:Train Loss: 725.2205 Acc: 0.9032 Time: 147.7917
+INFO:root:Valid Acc: 0.9828 Threshold: 0.2741 Time: 7.9242
+INFO:root:-----------------------------------------
+INFO:root:Epoch 52/69
+INFO:root:Train Loss: 600.5981 Acc: 0.9291 Time: 148.7807
+INFO:root:Valid Acc: 0.9815 Threshold: 0.2679 Time: 7.6972
+INFO:root:-----------------------------------------
+INFO:root:Epoch 53/69
+INFO:root:Train Loss: 589.0473 Acc: 0.9318 Time: 148.9401
+INFO:root:Valid Acc: 0.9840 Threshold: 0.2715 Time: 7.6935
+INFO:root:-----------------------------------------
+INFO:root:Epoch 54/69
+INFO:root:Train Loss: 584.4177 Acc: 0.9332 Time: 148.3442
+INFO:root:Valid Acc: 0.9832 Threshold: 0.2665 Time: 7.7377
+INFO:root:-----------------------------------------
+INFO:root:Epoch 55/69
+INFO:root:Train Loss: 581.6899 Acc: 0.9336 Time: 149.5617
+INFO:root:Valid Acc: 0.9830 Threshold: 0.2604 Time: 7.6685
+INFO:root:-----------------------------------------
+INFO:root:Epoch 56/69
+INFO:root:Train Loss: 579.1265 Acc: 0.9344 Time: 149.2287
+INFO:root:Valid Acc: 0.9833 Threshold: 0.2783 Time: 7.9193
+INFO:root:-----------------------------------------
+INFO:root:Epoch 57/69
+INFO:root:Train Loss: 576.9906 Acc: 0.9349 Time: 148.2154
+INFO:root:Valid Acc: 0.9833 Threshold: 0.2759 Time: 7.6851
+INFO:root:-----------------------------------------
+INFO:root:Epoch 58/69
+INFO:root:Train Loss: 562.7357 Acc: 0.9374 Time: 149.1460
+INFO:root:Valid Acc: 0.9828 Threshold: 0.2855 Time: 7.7509
+INFO:root:-----------------------------------------
+INFO:root:Epoch 59/69
+INFO:root:Train Loss: 562.5738 Acc: 0.9375 Time: 149.5730
+INFO:root:Valid Acc: 0.9830 Threshold: 0.2746 Time: 7.6658
+INFO:root:-----------------------------------------
+INFO:root:Epoch 60/69
+INFO:root:Train Loss: 561.8663 Acc: 0.9376 Time: 148.0616
+INFO:root:Valid Acc: 0.9830 Threshold: 0.2730 Time: 7.8166
+INFO:root:-----------------------------------------
+INFO:root:Epoch 61/69
+INFO:root:Train Loss: 561.6192 Acc: 0.9375 Time: 149.5834
+INFO:root:Valid Acc: 0.9830 Threshold: 0.2715 Time: 7.6733
+INFO:root:-----------------------------------------
+INFO:root:Epoch 62/69
+INFO:root:Train Loss: 561.5260 Acc: 0.9376 Time: 149.0150
+INFO:root:Valid Acc: 0.9832 Threshold: 0.2706 Time: 7.8578
+INFO:root:-----------------------------------------
+INFO:root:Epoch 63/69
+INFO:root:Train Loss: 561.0663 Acc: 0.9378 Time: 148.3570
+INFO:root:Valid Acc: 0.9830 Threshold: 0.2916 Time: 7.7342
+INFO:root:-----------------------------------------
+INFO:root:Epoch 64/69
+INFO:root:Train Loss: 561.4412 Acc: 0.9376 Time: 149.0963
+INFO:root:Valid Acc: 0.9833 Threshold: 0.2691 Time: 7.6480
+INFO:root:-----------------------------------------
+INFO:root:Epoch 65/69
+INFO:root:Train Loss: 560.5023 Acc: 0.9380 Time: 147.9398
+INFO:root:Valid Acc: 0.9827 Threshold: 0.2789 Time: 7.6268
+INFO:root:-----------------------------------------
+INFO:root:Epoch 66/69
+INFO:root:Train Loss: 560.7266 Acc: 0.9379 Time: 148.4030
+INFO:root:Valid Acc: 0.9833 Threshold: 0.2772 Time: 7.5704
+INFO:root:-----------------------------------------
+INFO:root:Epoch 67/69
+INFO:root:Train Loss: 560.5774 Acc: 0.9379 Time: 149.0072
+INFO:root:Valid Acc: 0.9828 Threshold: 0.2956 Time: 7.5919
+INFO:root:-----------------------------------------
+INFO:root:Epoch 68/69
+INFO:root:Train Loss: 560.4079 Acc: 0.9380 Time: 148.8071
+INFO:root:Valid Acc: 0.9830 Threshold: 0.2810 Time: 7.7175
+INFO:root:-----------------------------------------
+INFO:root:Epoch 69/69
+INFO:root:Train Loss: 560.5108 Acc: 0.9379 Time: 148.4264
+INFO:root:Valid Acc: 0.9830 Threshold: 0.2792 Time: 7.7568
+INFO:root:-----------------------------------------
