@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8b921b98-e47a-437b-a3e5-e1d73155ac93" name="cyh">
+        <fileTransfer rootFolder="/home/ubuntu" accessType="SFTP" host="cyh" port="6022" sshConfigId="f6699114-8afd-45c0-b5da-56616958d8b1" sshConfig="ubuntu@cyh:6022 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
